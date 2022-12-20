@@ -8,3 +8,5 @@ The repository consists of 4 files:
 4. Assumption-Free Cross Layer Equalization Quantization on MobileNetV2
 
 All the files can be directly uploaded to Colab and run to view the results
+
+GITLINK:https://github.com/raks139/ESE539_Final_Project.git
